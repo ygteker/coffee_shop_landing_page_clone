@@ -1,0 +1,10 @@
+.topbar {
+  background-color: gray;
+  height: 3rem;
+}
+
+.logo {
+  height: 2rem;
+  width: 2rem;
+  float: left;
+}
