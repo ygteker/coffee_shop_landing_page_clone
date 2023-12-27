@@ -6,6 +6,11 @@ const TopBar = () => {
   return (
     <div className={classes.topbar}>
       <img className={classes.logo} src={logo} />
+      <div className={classes.menu}>
+        <a>MENU</a>
+        <a>REWARDS</a>
+        <a>GIFT CARDS</a>
+      </div>
     </div>
   );
 };

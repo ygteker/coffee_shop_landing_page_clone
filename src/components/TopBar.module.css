@@ -1,10 +1,35 @@
 .topbar {
-  background-color: gray;
+  background-color: #f1f8f6;
   height: 3rem;
+  padding: 2rem;
 }
 
 .logo {
-  height: 2rem;
-  width: 2rem;
+  height: 3rem;
+  width: 3rem;
   float: left;
+}
+
+.menu {
+  display: flex;
+  gap: 2rem;
+  margin-left: 10rem;
+  height: 100%;
+}
+
+.menu a {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #1e3932;
+  font-weight: bolder;
+  align-self: center;
+  text-underline-offset: 3rem;
+}
+
+.menu a:hover {
+  color: #008248;
+}
+
+.menu a:active {
+  text-decoration: underline;
+  text-decoration-thickness: 80%;
 }
