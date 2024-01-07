@@ -1,21 +1,24 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
-import Header from "./components/Header";
-import ContentPanel from "./components/ContentPanel";
-import TopBar from "./components/TopBar";
-import Content from "./components/Content";
-import Footer from "./components/Footer";
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
+import Header from './components/Header';
+import ContentPanel from './components/panels/ContentPanel';
+import TopBar from './components/TopBar';
+import Content from './components/Content';
+import Footer from './components/Footer';
+import strings from './strings.yaml';
+import { StringContextProvider } from './StringsContext';
 
 function App() {
   return (
-    <div className="App">
-      <TopBar />
-      <Header />
-      <ContentPanel />
-      <Content />
-      <Footer />
-    </div>
+    <StringContextProvider data={strings}>
+      <div className="App">
+        <TopBar />
+        <Header />
+        <Content />
+        <Footer />
+      </div>
+    </StringContextProvider>
   );
 }
 

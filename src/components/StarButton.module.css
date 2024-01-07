@@ -1,0 +1,10 @@
+.starbutton {
+  background-color: #008248;
+  color: #f1f8f6;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 30px;
+  border-style: none;
+  width: 5.7rem;
+  height: 1.7rem;
+}
