@@ -9,8 +9,8 @@ interface StepProps {
 
 const Step = (props: StepProps) => {
   return (
-    <div>
-      <p>{props.order}</p>
+    <div className={classes.root}>
+      <p className={classes.order}>{props.order}</p>
       <p className={classes.header}>{props.header}</p>
       <p className={classes.description}>{props.description}</p>
     </div>

@@ -1,0 +1,13 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding-block: 5rem;
+}
+
+.stepsWrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+    padding-inline: 6rem;
+}
