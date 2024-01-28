@@ -16,3 +16,5 @@ const Step = (props: StepProps) => {
     </div>
   );
 };
+
+export default Step;
