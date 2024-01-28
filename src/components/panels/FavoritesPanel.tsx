@@ -72,11 +72,20 @@ const FavoritesPanel = () => {
   const [activeTab, setActiveTab] = useState(0);
 
   return (
-    <div>
+    <div className={classes.root}>
       <h1>Get your favorites for free</h1>
       <div className={classes.pointsWrapper}>
         {pointsList.map((point) => (
-          <p onClick={() => setActiveTab(point.id - 1)}>{point.points}⭐️</p>
+          <p
+            className={
+              activeTab === point.id - 1
+                ? classes.pointTextActive
+                : classes.pointText
+            }
+            onClick={() => setActiveTab(point.id - 1)}
+          >
+            {point.points}⭐️
+          </p>
         ))}
       </div>
       <FavoriteItem

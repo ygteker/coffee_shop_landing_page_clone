@@ -1,6 +1,29 @@
+.root {
+    background-color: #f1f8f6;
+    padding-block: 1rem;
+}
+
 .pointsWrapper {
     display: flex;
     flex-direction: row;
     justify-content: center;
     gap: 3.5rem;
+}
+
+.pointText {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.pointText:hover {
+    cursor: pointer;
+}
+
+.pointTextActive {
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 1.7rem;
+    text-decoration-thickness: 0.2rem;
+    text-decoration-color: #008248;
 }

@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './FavoritesPanel.module.css';
+import classes from './FavoriteItem.module.css';
 
 interface FavoriteItemProps {
   title: string;
@@ -10,10 +10,12 @@ interface FavoriteItemProps {
 const FavoriteItem = (props: FavoriteItemProps) => {
   return (
     <div className={classes.root}>
-      <img src={props.imgSrc} />
-      <div className={classes.textWrapper}>
-        <h1>{props.title}</h1>
-        <p>{props.text}</p>
+      <div className={classes.overlay}>
+        <img src={props.imgSrc} />
+        <div className={classes.textWrapper}>
+          <h1>{props.title}</h1>
+          <p>{props.text}</p>
+        </div>
       </div>
     </div>
   );

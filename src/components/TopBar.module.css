@@ -22,14 +22,17 @@
   color: #1e3932;
   font-weight: bolder;
   align-self: center;
-  text-underline-offset: 2.7rem;
+  text-decoration: none;
 }
 
 .menu a:hover {
   color: #008248;
+  cursor: pointer;
 }
 
 .menu a:active {
   text-decoration: underline;
   text-decoration-thickness: 50%;
+  text-underline-offset: 2.7rem;
+  text-decoration-color: #008248;
 }

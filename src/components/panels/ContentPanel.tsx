@@ -18,7 +18,7 @@ const ContentPanel: FC<ContentPanelProps> = (props) => {
           </p>
         </div>
         <div className={classes.imagewrapper}>
-          <img src={star}></img>
+          <img src={star} />
         </div>
       </div>
     </div>

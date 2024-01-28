@@ -1,11 +1,24 @@
 .root {
+    background-color: #d4e9e2;
+}
+
+.overlay {
+    width: 50vw;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    background-color: #d4e9e2;
+    margin: 0 auto;
+    padding-block: 2rem;
 }
 
 .textWrapper {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+}
+
+img {
+    width: 12rem;
+    height: 12rem;
+    margin: 0.625rem;
 }
