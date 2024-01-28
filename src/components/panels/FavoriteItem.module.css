@@ -1,0 +1,11 @@
+.root {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #d4e9e2;
+}
+
+.textWrapper {
+    display: flex;
+    flex-direction: column;
+}

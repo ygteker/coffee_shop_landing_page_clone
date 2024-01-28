@@ -1,0 +1,6 @@
+.pointsWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3.5rem;
+}
