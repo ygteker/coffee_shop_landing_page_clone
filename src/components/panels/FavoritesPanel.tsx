@@ -1,6 +1,6 @@
 import React from 'react';
 import classes from './FavoritesPanel.module.css';
-import FavoriteItem from './FavoriteItem';
+import FavoriteItem from '../items/FavoriteItem';
 import { useState } from 'react';
 import img025 from '../../assets/025.png.webp';
 import img100 from '../../assets/100.png.webp';

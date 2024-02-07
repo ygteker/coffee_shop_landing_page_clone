@@ -2,6 +2,7 @@ import React from 'react';
 import ContentPanel from './panels/ContentPanel';
 import GettingStartedPanel from './panels/GettingStartedPanel';
 import FavoritesPanel from './panels/FavoritesPanel';
+import ExtrasPanel from './panels/ExtrasPanel';
 
 const Content = () => {
   return (
@@ -9,6 +10,7 @@ const Content = () => {
       <ContentPanel />
       <GettingStartedPanel />
       <FavoritesPanel />
+      <ExtrasPanel />
     </div>
   );
 };

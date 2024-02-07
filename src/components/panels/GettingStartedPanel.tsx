@@ -1,6 +1,6 @@
 import React from 'react';
 import { text } from 'stream/consumers';
-import Step from './Step';
+import Step from '../items/Step';
 import classes from './GettingStartedPanel.module.css';
 
 const stepTexts = [
