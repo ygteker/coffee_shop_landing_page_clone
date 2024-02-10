@@ -1,0 +1,29 @@
+.root {
+    display: flex;
+    flex-direction: row;
+}
+
+.itemWrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.cellWrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.textWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.cellTextWrapepr {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
