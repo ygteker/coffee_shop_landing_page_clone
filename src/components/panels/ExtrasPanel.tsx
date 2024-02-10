@@ -4,6 +4,9 @@ import img2 from '../../assets/extras-2.webp';
 import img3 from '../../assets/extras-3.webp';
 import classes from './ExtrasPanel.module.css';
 
+const title = 'Endless extras';
+const text =
+  'Joining Starbucks® Rewards means unlocking access to exclusive benefits. Say hello to easy ordering, tasty Rewards and—yes, free coffee.';
 const extrasItems = [
   {
     imgSrc: img1,
@@ -24,10 +27,18 @@ const extrasItems = [
 
 const ExtrasPanel = () => {
   return (
-    <div className={classes.wrapper}>
-      {extrasItems.map((item) => (
-        <ExtrasItem imgSrc={item.imgSrc} title={item.title} text={item.text} />
-      ))}
+    <div className={classes.root}>
+      <h1 className={classes.title}>{title}</h1>
+      <p className={classes.text}>{text}</p>
+      <div className={classes.itemsWrapper}>
+        {extrasItems.map((item) => (
+          <ExtrasItem
+            imgSrc={item.imgSrc}
+            title={item.title}
+            text={item.text}
+          />
+        ))}
+      </div>
     </div>
   );
 };

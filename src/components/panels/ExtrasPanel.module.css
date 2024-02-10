@@ -1,4 +1,29 @@
-.wrapper {
+.root {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20%;
+    padding-right: 20%;
+    justify-content: center;
+}
+
+.itemsWrapper {
     display: flex;
     flex-direction: row;
+    gap: 5%;
+}
+
+.title {
+    margin-top: 3rem;
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+p {
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
 }
