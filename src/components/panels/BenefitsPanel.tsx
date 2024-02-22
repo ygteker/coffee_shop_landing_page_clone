@@ -5,6 +5,9 @@ import img2 from '../../assets/benefit2.png';
 import img3 from '../../assets/benefit3.png';
 import img4 from '../../assets/benefit4.png';
 
+const title = 'Cash or card, you earn stars';
+const text =
+  'No matter how you pay, you can earn Stars with your morning coffee. Those Stars add up to (really delicious) Rewards.';
 const cells = [
   {
     title: '1⭐️ Star per dollar',
@@ -43,11 +46,21 @@ const cells = [
 const BenefitsPanel = () => {
   return (
     <div className={classes.root}>
-      {cells.map((cell) => {
-        return (
-          <BenefitItem title={cell.title} text={cell.text} items={cell.items} />
-        );
-      })}
+      <div className={classes.textWrapper}>
+        <h1>{title}</h1>
+        <p>{text}</p>
+      </div>
+      <div className={classes.cellWrapper}>
+        {cells.map((cell) => {
+          return (
+            <BenefitItem
+              title={cell.title}
+              text={cell.text}
+              items={cell.items}
+            />
+          );
+        })}
+      </div>
     </div>
   );
 };

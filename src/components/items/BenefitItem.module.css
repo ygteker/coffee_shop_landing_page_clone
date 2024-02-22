@@ -5,25 +5,38 @@
 
 .itemWrapper {
     display: flex;
+    justify-content: space-between;
     flex-direction: row;
+    width: 60%;
 }
 
 .cellWrapper {
     display: flex;
     flex-direction: row;
+    width: 40%;
 }
 
 .textWrapper {
     display: flex;
     flex-direction: column;
+    width: 25%;
+    text-align: left;
 }
 
-.cellTextWrapepr {
+.cellTextWrapper {
     display: flex;
     flex-direction: column;
+    text-align: left;
+}
+
+.cellTextWrapper h1 {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
 }
 
 img {
     width: 100px;
     height: 100px;
+    margin-right: 2rem;
 }
