@@ -1,3 +1,7 @@
+.root {
+  overflow: hidden;
+}
+
 .adtext {
   display: flex;
   width: 100vw;

@@ -7,7 +7,7 @@ interface ContentPanelProps {}
 
 const ContentPanel: FC<ContentPanelProps> = (props) => {
   return (
-    <div>
+    <div className={classes.root}>
       <div className={classes.adtext}>
         <div className={classes.textwrapper}>
           <p className={classes.freecoffee}>FREE COFFEE IS A TAP AWAY</p>
