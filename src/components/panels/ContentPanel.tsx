@@ -1,7 +1,7 @@
 import { FC } from 'react';
 import classes from './ContentPanel.module.css';
 import StarButton from '../StarButton';
-import star from '../../assets/starbucks-star.png';
+import star from '../../assets/star.png';
 
 interface ContentPanelProps {}
 
