@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ygteker/coffee_shop_landing_page_clone/static/css/main.7a12992c.css",
-    "main.js": "/ygteker/coffee_shop_landing_page_clone/static/js/main.71f2a336.js",
-    "static/js/787.39b64e86.chunk.js": "/ygteker/coffee_shop_landing_page_clone/static/js/787.39b64e86.chunk.js",
-    "static/media/logo.png": "/ygteker/coffee_shop_landing_page_clone/static/media/logo.14ed0973f3511df816f1.png",
-    "static/media/star.png": "/ygteker/coffee_shop_landing_page_clone/static/media/star.ccf4fd77445bdddc1162.png",
-    "static/media/200.png.webp": "/ygteker/coffee_shop_landing_page_clone/static/media/200.png.4503daf03fc191fbf9e5.webp",
-    "static/media/100.png.webp": "/ygteker/coffee_shop_landing_page_clone/static/media/100.png.5fb17a80a5324de0f68d.webp",
-    "static/media/300.png.webp": "/ygteker/coffee_shop_landing_page_clone/static/media/300.png.fc2486474620de0dfe45.webp",
-    "static/media/400.png.webp": "/ygteker/coffee_shop_landing_page_clone/static/media/400.png.39312b0e68761ce56dda.webp",
-    "static/media/benefit2.png": "/ygteker/coffee_shop_landing_page_clone/static/media/benefit2.6f7b61cd66954074aaa4.png",
-    "static/media/025.png.webp": "/ygteker/coffee_shop_landing_page_clone/static/media/025.png.303b7caa9de18fd88872.webp",
-    "static/media/extras-1.webp": "/ygteker/coffee_shop_landing_page_clone/static/media/extras-1.e5c5d00747240ddb0bb8.webp",
-    "static/media/extras-3.webp": "/ygteker/coffee_shop_landing_page_clone/static/media/extras-3.61505c34c2aca5adecb0.webp",
-    "static/media/extras-2.webp": "/ygteker/coffee_shop_landing_page_clone/static/media/extras-2.7ae32f8f362fc9a36bb7.webp",
-    "index.html": "/ygteker/coffee_shop_landing_page_clone/index.html",
-    "main.7a12992c.css.map": "/ygteker/coffee_shop_landing_page_clone/static/css/main.7a12992c.css.map",
-    "main.71f2a336.js.map": "/ygteker/coffee_shop_landing_page_clone/static/js/main.71f2a336.js.map",
-    "787.39b64e86.chunk.js.map": "/ygteker/coffee_shop_landing_page_clone/static/js/787.39b64e86.chunk.js.map"
+    "main.css": "/coffee_shop_landing_page_clone/static/css/main.7a12992c.css",
+    "main.js": "/coffee_shop_landing_page_clone/static/js/main.dac1188a.js",
+    "static/js/787.39b64e86.chunk.js": "/coffee_shop_landing_page_clone/static/js/787.39b64e86.chunk.js",
+    "static/media/logo.png": "/coffee_shop_landing_page_clone/static/media/logo.14ed0973f3511df816f1.png",
+    "static/media/star.png": "/coffee_shop_landing_page_clone/static/media/star.ccf4fd77445bdddc1162.png",
+    "static/media/200.png.webp": "/coffee_shop_landing_page_clone/static/media/200.png.4503daf03fc191fbf9e5.webp",
+    "static/media/100.png.webp": "/coffee_shop_landing_page_clone/static/media/100.png.5fb17a80a5324de0f68d.webp",
+    "static/media/300.png.webp": "/coffee_shop_landing_page_clone/static/media/300.png.fc2486474620de0dfe45.webp",
+    "static/media/400.png.webp": "/coffee_shop_landing_page_clone/static/media/400.png.39312b0e68761ce56dda.webp",
+    "static/media/benefit2.png": "/coffee_shop_landing_page_clone/static/media/benefit2.6f7b61cd66954074aaa4.png",
+    "static/media/025.png.webp": "/coffee_shop_landing_page_clone/static/media/025.png.303b7caa9de18fd88872.webp",
+    "static/media/extras-1.webp": "/coffee_shop_landing_page_clone/static/media/extras-1.e5c5d00747240ddb0bb8.webp",
+    "static/media/extras-3.webp": "/coffee_shop_landing_page_clone/static/media/extras-3.61505c34c2aca5adecb0.webp",
+    "static/media/extras-2.webp": "/coffee_shop_landing_page_clone/static/media/extras-2.7ae32f8f362fc9a36bb7.webp",
+    "index.html": "/coffee_shop_landing_page_clone/index.html",
+    "main.7a12992c.css.map": "/coffee_shop_landing_page_clone/static/css/main.7a12992c.css.map",
+    "main.dac1188a.js.map": "/coffee_shop_landing_page_clone/static/js/main.dac1188a.js.map",
+    "787.39b64e86.chunk.js.map": "/coffee_shop_landing_page_clone/static/js/787.39b64e86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a12992c.css",
-    "static/js/main.71f2a336.js"
+    "static/js/main.dac1188a.js"
   ]
 }
