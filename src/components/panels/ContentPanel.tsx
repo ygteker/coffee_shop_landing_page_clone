@@ -17,7 +17,7 @@ const ContentPanel: FC<ContentPanelProps> = (props) => {
             Or join <a>in the app</a> for the best experience
           </p>
         </div>
-        <div className={classes.imagewrapper}>
+        <div className={classes.imageWrapper}>
           <img src={star} />
         </div>
       </div>
