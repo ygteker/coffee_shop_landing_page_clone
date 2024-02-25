@@ -7,7 +7,7 @@ const stepTexts = [
   {
     id: 1,
     title: 'Create an account',
-    text: 'To get started, join now. You can also join in the app to get access to the full range of Starbucks® Rewards benefits.',
+    text: 'To get started, join now. You can also join in the app to get access to the full range of Greenbox Rewards benefits.',
   },
   {
     id: 2,

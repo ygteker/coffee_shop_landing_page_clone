@@ -6,7 +6,7 @@ import classes from './ExtrasPanel.module.css';
 
 const title = 'Endless extras';
 const text =
-  'Joining Starbucks® Rewards means unlocking access to exclusive benefits. Say hello to easy ordering, tasty Rewards and—yes, free coffee.';
+  'Joining Greenbox Rewards means unlocking access to exclusive benefits. Say hello to easy ordering, tasty Rewards and—yes, free coffee.';
 const extrasItems = [
   {
     imgSrc: img1,

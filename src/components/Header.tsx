@@ -6,7 +6,7 @@ interface HeaderProps {}
 const Header: FC<HeaderProps> = (props) => {
   return (
     <header className={classes.header}>
-      <h2>STARBUCKS REWARDS</h2>
+      <h2>GREENBOX REWARDS</h2>
     </header>
   );
 };

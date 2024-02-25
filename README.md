@@ -1,6 +1,6 @@
-# Starbucks Landing Page Clone
+# A Landing Page Clone of a coffee company
 
-This project is a clone of the Starbucks landing page, created to showcase the programmer's skills in HTML, CSS, and React. The goal of this project is to demonstrate proficiency in front-end development and the ability to replicate a real-world website using modern web technologies.
+This project is a clone of a landing page of a popular coffee company, created to showcase the programmer's skills in HTML, CSS, and React. The goal of this project is to demonstrate proficiency in front-end development and the ability to replicate a real-world website using modern web technologies.
 
 ## Technologies Used
 

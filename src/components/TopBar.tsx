@@ -1,6 +1,6 @@
 import { FC } from 'react';
 import classes from './TopBar.module.css';
-import logo from '../assets/image.svg';
+import logo from '../assets/logo.png';
 
 const TopBar = () => {
   return (

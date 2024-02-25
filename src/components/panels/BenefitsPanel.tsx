@@ -31,7 +31,7 @@ const cells = [
     items: [
       {
         title: 'Preload',
-        text: 'To save time and earn Stars twice as fast, add money to your digital Starbucks Card using any payment option. Scan and pay in one step or order ahead in the app.',
+        text: 'To save time and earn Stars twice as fast, add money to your digital Greenbox Card using any payment option. Scan and pay in one step or order ahead in the app.',
         imgSrc: img3,
       },
       {
