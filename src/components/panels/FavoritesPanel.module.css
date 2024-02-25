@@ -10,6 +10,10 @@
     gap: 3.5rem;
 }
 
+.pointsWrapper p:hover {
+    cursor: pointer;
+}
+
 .pointText {
     font-size: 1.5rem;
     font-weight: 600;

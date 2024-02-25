@@ -30,7 +30,7 @@
   cursor: pointer;
 }
 
-.menu a:active {
+.menu .active {
   text-decoration: underline;
   text-decoration-thickness: 50%;
   text-underline-offset: 2.7rem;

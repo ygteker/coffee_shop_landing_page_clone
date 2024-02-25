@@ -8,6 +8,6 @@
 .stepsWrapper {
     display: flex;
     flex-direction: row;
-    gap: 4rem;
+    justify-content: space-evenly;
     padding-inline: 6rem;
 }
