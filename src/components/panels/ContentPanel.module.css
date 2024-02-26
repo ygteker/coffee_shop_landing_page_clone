@@ -22,9 +22,9 @@ a {
 }
 
 .imageWrapper img {
-  width: 100%;
+  width: 120%;
   height: 100%;
-  object-fit: cover;
+  object-fit: inherit;
   margin: 0;
 }
 
