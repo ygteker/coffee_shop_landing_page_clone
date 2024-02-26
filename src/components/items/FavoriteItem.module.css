@@ -17,8 +17,9 @@
     justify-content: center;
 }
 
-img {
-    width: 12rem;
-    height: 12rem;
+.root img {
+    width: 8rem;
+    height: 8rem;
     margin: 0.625rem;
+    border-radius: 50%;
 }

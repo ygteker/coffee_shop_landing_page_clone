@@ -2,11 +2,11 @@ import React from 'react';
 import classes from './FavoritesPanel.module.css';
 import FavoriteItem from '../items/FavoriteItem';
 import { useState } from 'react';
-import img025 from '../../assets/025.png.webp';
-import img100 from '../../assets/100.png.webp';
-import img200 from '../../assets/200.png.webp';
-import img300 from '../../assets/300.png.webp';
-import img400 from '../../assets/400.png.webp';
+import img025 from '../../assets/025.png';
+import img100 from '../../assets/100.png';
+import img200 from '../../assets/200.png';
+import img300 from '../../assets/300.png';
+import img400 from '../../assets/400.png';
 
 const pointsList = [
   {
