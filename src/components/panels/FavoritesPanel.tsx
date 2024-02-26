@@ -62,7 +62,7 @@ const imageList = [
   {
     id: 5,
     title: 'Choose merchandise or enjoy coffee at home',
-    text: 'Take home a signature Starbucks cup, a bag of coffee, or select coffee accessories of your choice.',
+    text: 'Take home a signature a coffee cup, a bag of coffee, or select coffee accessories of your choice.',
     imageSrc: img400,
     alt: '400 points',
   },
