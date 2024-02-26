@@ -6,22 +6,22 @@ import classes from './ExtrasPanel.module.css';
 
 const title = 'Endless extras';
 const text =
-  'Joining Greenbox Rewards means unlocking access to exclusive benefits. Say hello to easy ordering, tasty Rewards and—yes, free coffee.';
+  'By joining Greenbox Rewards, you can unlock exclusive benefits. Enjoy free coffee, birthday treats, and coffee and tea refills.';
 const extrasItems = [
   {
     imgSrc: img1,
-    title: 'Fun freebies',
-    text: 'Not only can you earn free coffee, look forward to a birthday treat plus coffee and tea refills.',
+    title: 'Exciting freebies',
+    text: 'Not only can you earn free coffee, but also look forward to a special treat on your birthday and unlimited coffee and tea refills.',
   },
   {
     imgSrc: img2,
-    title: 'Order & pay ahead',
-    text: 'Enjoy the convenience of in-store, curbside or drive-thru pickup at select stores.',
+    title: 'Order & pay in advance',
+    text: 'Experience the convenience of ordering and paying ahead for your favorite drinks. Choose in-store, curbside, or drive-thru pickup at select locations.',
   },
   {
     imgSrc: img3,
-    title: 'Get to free faster',
-    text: 'Earn Stars even quicker with Bonus Star challenges, Double Star Days and exciting games.',
+    title: 'Accelerate your rewards',
+    text: 'Earn Stars faster with Bonus Star challenges, Double Star Days, and engaging games.',
   },
 ];
 

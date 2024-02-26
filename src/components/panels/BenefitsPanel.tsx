@@ -14,29 +14,29 @@ const cells = [
     text: 'Pay as you go',
     items: [
       {
-        title: 'Scan and pay separately',
-        text: 'Use cash or credit/debit card at the register.',
+        title: 'Convenient payment options',
+        text: "Choose how you want to pay, whether it's with cash, credit/debit card, or through the app.",
         imgSrc: img1,
       },
       {
-        title: 'Save payment in the app',
-        text: 'Check-out faster by saving a credit/debit card or PayPal to your account. You’ll be able to order ahead or scan and pay at the register in one step.',
+        title: 'Fast and easy check-out',
+        text: 'Save your payment information in the app for quicker check-out. Order ahead or scan and pay at the register seamlessly.',
         imgSrc: img2,
       },
     ],
   },
   {
-    title: '2⭐️ Star per dollar',
-    text: 'Add funds in the app',
+    title: '2⭐️ Stars for every dollar spent',
+    text: 'Add funds through the app',
     items: [
       {
-        title: 'Preload',
-        text: 'To save time and earn Stars twice as fast, add money to your digital Greenbox Card using any payment option. Scan and pay in one step or order ahead in the app.',
+        title: 'Preload your digital Greenbox Card',
+        text: 'Save time and earn Stars twice as fast by adding money to your digital Greenbox Card using any payment option. Scan and pay in one step or order ahead in the app.',
         imgSrc: img3,
       },
       {
         title: 'Register your gift card',
-        text: 'Then use it to pay through the app. You can even consolidate balances from multiple cards in one place.',
+        text: 'Use your gift card to pay through the app. You can even consolidate balances from multiple cards in one place.',
         imgSrc: img4,
       },
     ],

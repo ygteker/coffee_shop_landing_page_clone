@@ -6,18 +6,18 @@ import classes from './GettingStartedPanel.module.css';
 const stepTexts = [
   {
     id: 1,
-    title: 'Create an account',
-    text: 'To get started, join now. You can also join in the app to get access to the full range of Greenbox Rewards benefits.',
+    title: 'Sign up for an account',
+    text: 'To get started, sign up now. You can also join in the app to access the full range of Greenbox Rewards benefits.',
   },
   {
     id: 2,
-    title: 'Order and pay how you’d like',
-    text: 'Use cash, credit/debit card or save some time and pay right through the app. You’ll collect Stars all ways. Learn how',
+    title: 'Order and pay your way',
+    text: "Use cash, credit/debit card, or save time and pay directly through the app. You'll earn Stars with every purchase. Learn more",
   },
   {
     id: 3,
-    title: 'Earn Stars, get Rewards',
-    text: 'As you earn Stars, you can redeem them for Rewards—like free food, drinks, and more. Start redeeming with as little as 25 Stars!',
+    title: 'Earn Stars and enjoy Rewards',
+    text: 'As you accumulate Stars, you can redeem them for Rewards—such as free food, drinks, and more. Start redeeming with just 25 Stars!',
   },
 ];
 
